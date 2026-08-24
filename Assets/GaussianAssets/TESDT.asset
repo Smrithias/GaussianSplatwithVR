@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: TESDT
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 175871
+  m_BoundsMin: {x: 4.7900558, y: -12.809764, z: -0.547183}
+  m_BoundsMax: {x: 8.589973, y: -7.190226, z: 3.5899968}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: 488c3668feb429e0a3276b5c054936b6
+  m_PosFormat: 2
+  m_ScaleFormat: 3
+  m_SHFormat: 8
+  m_ColorFormat: 3
+  m_PosData: {fileID: 4900000, guid: 6d3c3ba6d005a674285b65e22f58a82c, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 41811f7ba2399254aa59fe11bdb31361, type: 3}
+  m_OtherData: {fileID: 4900000, guid: 6df54d1b17246e248a4f42a16f9ec367, type: 3}
+  m_SHData: {fileID: 4900000, guid: 071f2014581dc9040a8d9bf2efb290f1, type: 3}
+  m_ChunkData: {fileID: 4900000, guid: f27017f083584c247b83f615af091a43, type: 3}
+  m_Cameras: []
