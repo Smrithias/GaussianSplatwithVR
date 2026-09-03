@@ -2,6 +2,7 @@
   "dependencies": {
     "com.meta.xr.sdk.all": "71.0.0",
     "com.unity.ide.rider": "3.0.31",
+    "com.unity.xr.interaction.toolkit": "2.6.5",
     "com.unity.xr.management": "4.7.0",
     "com.unity.xr.oculus": "4.2.0",
     "com.unity.xr.openxr": "1.12.1",
